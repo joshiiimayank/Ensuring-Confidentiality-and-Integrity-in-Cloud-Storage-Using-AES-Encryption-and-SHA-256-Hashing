@@ -1,0 +1,90 @@
+[
+    {
+        "relative_path": "Screenshot 2025-09-24 at 10.00.59\u202fAM.png",
+        "sha256": "ed067c8120cb6467f76f802b79db4542d85253c14b29bf4ba9fc1f8c9f66ef09",
+        "s3_key": "secure-backups/Screenshot 2025-09-24 at 10.00.59\u202fAM.png.enc",
+        "encryption_metadata": {
+            "nonce": "78252a8600238d3c7865b223",
+            "wrapped_key": "aa3295fb38c0a949883db3153fc3bf431e7ca3360ba8a149a0cc992cc08f98f6f1839811d3326ff7a389b06e518755f9",
+            "file_key_nonce": "c37cdd3cf5ec010af73ffe90",
+            "algorithm": "AES-GCM-256"
+        }
+    },
+    {
+        "relative_path": "Screenshot 2025-09-24 at 10.02.29\u202fAM.png",
+        "sha256": "edf87ff231f208c599c86099d2bd3ca93e716c0f7c8752d53b2d503ec4e9677b",
+        "s3_key": "secure-backups/Screenshot 2025-09-24 at 10.02.29\u202fAM.png.enc",
+        "encryption_metadata": {
+            "nonce": "c4f98eeb4f17504011b99f60",
+            "wrapped_key": "231d1098dc18e4ed30d760dcb2e7fd2d637896a7fe8e335dea10345403aaa6c8153dd4b76cfe9d15a6f444207dda3ff9",
+            "file_key_nonce": "588f62ccba4d415f681ae9d9",
+            "algorithm": "AES-GCM-256"
+        }
+    },
+    {
+        "relative_path": "Screenshot 2025-09-24 at 10.01.59\u202fAM.png",
+        "sha256": "343bdcb7d525473c053d0082b6ac29a6a9c0a35b205fc468561d9f090ff9cd15",
+        "s3_key": "secure-backups/Screenshot 2025-09-24 at 10.01.59\u202fAM.png.enc",
+        "encryption_metadata": {
+            "nonce": "0de1ce2b37d69b104de2855f",
+            "wrapped_key": "62373aa51d87a19c34178322094988b371a9ce057879f284080ed6592a1e0bfcbb11f25757774c5946f3a0e620173090",
+            "file_key_nonce": "5a96b422c797972a889f5d49",
+            "algorithm": "AES-GCM-256"
+        }
+    },
+    {
+        "relative_path": "Screenshot 2025-09-24 at 10.00.53\u202fAM.png",
+        "sha256": "3e85e1cd815db0fbaf810082e74a6b50e938f196b10152183976c4887ea737e9",
+        "s3_key": "secure-backups/Screenshot 2025-09-24 at 10.00.53\u202fAM.png.enc",
+        "encryption_metadata": {
+            "nonce": "38dd97cf443488478fbba66b",
+            "wrapped_key": "29195b673bf5345b34db574bb9d188a13d5fb94498dd62005bf46c9aca770bb2816e474ba7204cda0f10652cae481da6",
+            "file_key_nonce": "6259379527f8373e867faaa0",
+            "algorithm": "AES-GCM-256"
+        }
+    },
+    {
+        "relative_path": "Screenshot 2025-09-24 at 10.02.17\u202fAM.png",
+        "sha256": "9fc64a557dd8cfe7355a49953f1c04b0e12e15c6380667a392689ce949f51c04",
+        "s3_key": "secure-backups/Screenshot 2025-09-24 at 10.02.17\u202fAM.png.enc",
+        "encryption_metadata": {
+            "nonce": "85bf69518300de04d7d5e5d8",
+            "wrapped_key": "3765b1fdd84a644f490e7c05cfecb521e833d5038c9b44baa27520b748a3722beddf6e9fffcbb12320eda896931e732f",
+            "file_key_nonce": "898417594c120b39a381ffb5",
+            "algorithm": "AES-GCM-256"
+        }
+    },
+    {
+        "relative_path": "Screenshot 2025-09-24 at 10.01.52\u202fAM.png",
+        "sha256": "24052c39d7f71294e665e94157e80227222d2180133c86512b97ecf0b04d4cd4",
+        "s3_key": "secure-backups/Screenshot 2025-09-24 at 10.01.52\u202fAM.png.enc",
+        "encryption_metadata": {
+            "nonce": "6aeaffdf065c5096e655325e",
+            "wrapped_key": "fa0a24d6739a93b6b92776ab1fda3db1c70cbd4af885531130ff5194349abd275dc839268fa6e69b951098b120e46c84",
+            "file_key_nonce": "9ce3c837569ccc60a403ee0f",
+            "algorithm": "AES-GCM-256"
+        }
+    },
+    {
+        "relative_path": "Screenshot 2025-09-24 at 10.02.22\u202fAM.png",
+        "sha256": "2e52ee775a9d54f5cc5c37fec3900b3cb08b40836b890907e36579b76457af73",
+        "s3_key": "secure-backups/Screenshot 2025-09-24 at 10.02.22\u202fAM.png.enc",
+        "encryption_metadata": {
+            "nonce": "5f1df9bdc5cbb4a3c4acec03",
+            "wrapped_key": "b7e59d078d5ac3c60807af3961be085439f9d69628fd3904f2d37b864c1d4edd64db7fdd72697cc6b59f81886e4c9cb9",
+            "file_key_nonce": "5c730c7802d04f1b72d8dbcd",
+            "algorithm": "AES-GCM-256"
+        }
+    },
+    {
+        "relative_path": "Screenshot 2025-09-24 at 10.02.08\u202fAM.png",
+        "sha256": "dadb1885d6598decb6d652dddbb79c090a82c6c5625e290293cb2d9035683e79",
+        "s3_key": "secure-backups/Screenshot 2025-09-24 at 10.02.08\u202fAM.png.enc",
+        "encryption_metadata": {
+            "nonce": "adb587b0d82383a69ca07421",
+            "wrapped_key": "ac4fae06ac6647110cbff5163942cd949946fe8fc36db451d8d389a16d35b0a0df24018a29a566dc5fe2c6f7cf5f3d19",
+            "file_key_nonce": "82acc3d833263330f0154dff",
+            "algorithm": "AES-GCM-256"
+        }
+    }
+]

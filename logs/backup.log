@@ -1,0 +1,198 @@
+2025-08-26 22:56:49,124 - INFO - Backup manifest saved to manifests/backup_manifest.json
+2025-08-26 22:56:49,124 - INFO - Backup manifest saved to manifests/backup_manifest.json
+2025-08-26 22:57:23,835 - INFO - Backup manifest saved to manifests/backup_manifest.json
+2025-08-26 22:57:23,835 - INFO - Backup manifest saved to manifests/backup_manifest.json
+2025-08-26 23:02:44,295 - INFO - Processing file: Mayank_Joshi_Timesheet.xlsx
+2025-08-26 23:02:44,295 - INFO - Processing file: Mayank_Joshi_Timesheet.xlsx
+2025-08-26 23:04:34,688 - INFO - Processing file: Mayank_J_INTERNSHIP_PPT.pdf
+2025-08-26 23:04:34,688 - INFO - Processing file: Mayank_J_INTERNSHIP_PPT.pdf
+2025-08-26 23:04:38,875 - INFO - Uploaded: secure-backups/Mayank_J_INTERNSHIP_PPT.pdf.enc
+2025-08-26 23:04:38,875 - INFO - Uploaded: secure-backups/Mayank_J_INTERNSHIP_PPT.pdf.enc
+2025-08-26 23:04:38,877 - INFO - Backup manifest saved to manifests/backup_manifest.json
+2025-08-26 23:04:38,877 - INFO - Backup manifest saved to manifests/backup_manifest.json
+2025-08-26 23:05:29,718 - INFO - Processing file: Mayank_J_INTERNSHIP_PPT.pdf
+2025-08-26 23:05:29,718 - INFO - Processing file: Mayank_J_INTERNSHIP_PPT.pdf
+2025-08-26 23:05:48,890 - INFO - Uploaded: secure-backups/Mayank_J_INTERNSHIP_PPT.pdf.enc
+2025-08-26 23:05:48,890 - INFO - Uploaded: secure-backups/Mayank_J_INTERNSHIP_PPT.pdf.enc
+2025-08-26 23:05:48,893 - INFO - Backup manifest saved to manifests/backup_manifest.json
+2025-08-26 23:05:48,893 - INFO - Backup manifest saved to manifests/backup_manifest.json
+2025-08-26 23:06:39,770 - INFO - Restoring file: Mayank_J_INTERNSHIP_PPT.pdf from S3 key: secure-backups/Mayank_J_INTERNSHIP_PPT.pdf.enc
+2025-08-26 23:06:39,770 - INFO - Restoring file: Mayank_J_INTERNSHIP_PPT.pdf from S3 key: secure-backups/Mayank_J_INTERNSHIP_PPT.pdf.enc
+2025-08-26 23:06:57,198 - INFO - Successfully restored: Mayank_J_INTERNSHIP_PPT.pdf
+2025-08-26 23:06:57,198 - INFO - Successfully restored: Mayank_J_INTERNSHIP_PPT.pdf
+2025-08-26 23:07:54,391 - INFO - Restoring file: Mayank_J_INTERNSHIP_PPT.pdf from S3 key: secure-backups/Mayank_J_INTERNSHIP_PPT.pdf.enc
+2025-08-26 23:07:54,391 - INFO - Restoring file: Mayank_J_INTERNSHIP_PPT.pdf from S3 key: secure-backups/Mayank_J_INTERNSHIP_PPT.pdf.enc
+2025-08-26 23:08:10,405 - ERROR - Decryption failed for Mayank_J_INTERNSHIP_PPT.pdf: 
+2025-08-26 23:08:10,405 - ERROR - Decryption failed for Mayank_J_INTERNSHIP_PPT.pdf: 
+2025-09-24 11:22:41,014 - INFO - Processing file: Screenshot 2025-09-24 at 10.00.59 AM.png
+2025-09-24 11:22:41,014 - INFO - Processing file: Screenshot 2025-09-24 at 10.00.59 AM.png
+2025-09-24 11:23:07,398 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.00.59 AM.png.enc
+2025-09-24 11:23:07,398 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.00.59 AM.png.enc
+2025-09-24 11:23:07,399 - INFO - Processing file: Screenshot 2025-09-24 at 10.00.24 AM.png
+2025-09-24 11:23:07,399 - INFO - Processing file: Screenshot 2025-09-24 at 10.00.24 AM.png
+2025-09-24 11:23:08,700 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.00.24 AM.png.enc
+2025-09-24 11:23:08,700 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.00.24 AM.png.enc
+2025-09-24 11:23:08,700 - INFO - Processing file: Screenshot 2025-09-24 at 9.59.52 AM.png
+2025-09-24 11:23:08,700 - INFO - Processing file: Screenshot 2025-09-24 at 9.59.52 AM.png
+2025-09-24 11:23:09,638 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 9.59.52 AM.png.enc
+2025-09-24 11:23:09,638 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 9.59.52 AM.png.enc
+2025-09-24 11:23:09,639 - INFO - Processing file: Screenshot 2025-09-24 at 10.00.12 AM.png
+2025-09-24 11:23:09,639 - INFO - Processing file: Screenshot 2025-09-24 at 10.00.12 AM.png
+2025-09-24 11:23:10,189 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.00.12 AM.png.enc
+2025-09-24 11:23:10,189 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.00.12 AM.png.enc
+2025-09-24 11:23:10,192 - INFO - Processing file: Screenshot 2025-09-24 at 10.02.29 AM.png
+2025-09-24 11:23:10,192 - INFO - Processing file: Screenshot 2025-09-24 at 10.02.29 AM.png
+2025-09-24 11:23:11,298 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.02.29 AM.png.enc
+2025-09-24 11:23:11,298 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.02.29 AM.png.enc
+2025-09-24 11:23:11,299 - INFO - Processing file: Screenshot 2025-09-24 at 10.00.45 AM.png
+2025-09-24 11:23:11,299 - INFO - Processing file: Screenshot 2025-09-24 at 10.00.45 AM.png
+2025-09-24 11:23:12,906 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.00.45 AM.png.enc
+2025-09-24 11:23:12,906 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.00.45 AM.png.enc
+2025-09-24 11:23:12,907 - INFO - Processing file: Screenshot 2025-09-24 at 10.03.17 AM.png
+2025-09-24 11:23:12,907 - INFO - Processing file: Screenshot 2025-09-24 at 10.03.17 AM.png
+2025-09-24 11:23:18,264 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.03.17 AM.png.enc
+2025-09-24 11:23:18,264 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.03.17 AM.png.enc
+2025-09-24 11:23:18,265 - INFO - Processing file: Screenshot 2025-09-24 at 10.03.50 AM.png
+2025-09-24 11:23:18,265 - INFO - Processing file: Screenshot 2025-09-24 at 10.03.50 AM.png
+2025-09-24 11:23:25,140 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.03.50 AM.png.enc
+2025-09-24 11:23:25,140 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.03.50 AM.png.enc
+2025-09-24 11:23:25,141 - INFO - Processing file: Screenshot 2025-09-24 at 10.01.59 AM.png
+2025-09-24 11:23:25,141 - INFO - Processing file: Screenshot 2025-09-24 at 10.01.59 AM.png
+2025-09-24 11:23:29,316 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.01.59 AM.png.enc
+2025-09-24 11:23:29,316 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.01.59 AM.png.enc
+2025-09-24 11:23:29,317 - INFO - Processing file: Screenshot 2025-09-24 at 10.02.52 AM.png
+2025-09-24 11:23:29,317 - INFO - Processing file: Screenshot 2025-09-24 at 10.02.52 AM.png
+2025-09-24 11:23:32,049 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.02.52 AM.png.enc
+2025-09-24 11:23:32,049 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.02.52 AM.png.enc
+2025-09-24 11:23:32,050 - INFO - Processing file: Screenshot 2025-09-24 at 10.03.54 AM.png
+2025-09-24 11:23:32,050 - INFO - Processing file: Screenshot 2025-09-24 at 10.03.54 AM.png
+2025-09-24 11:23:32,965 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.03.54 AM.png.enc
+2025-09-24 11:23:32,965 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.03.54 AM.png.enc
+2025-09-24 11:23:32,966 - INFO - Processing file: Screenshot 2025-09-24 at 10.00.53 AM.png
+2025-09-24 11:23:32,966 - INFO - Processing file: Screenshot 2025-09-24 at 10.00.53 AM.png
+2025-09-24 11:23:34,031 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.00.53 AM.png.enc
+2025-09-24 11:23:34,031 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.00.53 AM.png.enc
+2025-09-24 11:23:34,031 - INFO - Processing file: Screenshot 2025-09-24 at 10.00.30 AM.png
+2025-09-24 11:23:34,031 - INFO - Processing file: Screenshot 2025-09-24 at 10.00.30 AM.png
+2025-09-24 11:23:35,480 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.00.30 AM.png.enc
+2025-09-24 11:23:35,480 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.00.30 AM.png.enc
+2025-09-24 11:23:35,481 - INFO - Processing file: Screenshot 2025-09-24 at 10.03.03 AM.png
+2025-09-24 11:23:35,481 - INFO - Processing file: Screenshot 2025-09-24 at 10.03.03 AM.png
+2025-09-24 11:23:39,842 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.03.03 AM.png.enc
+2025-09-24 11:23:39,842 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.03.03 AM.png.enc
+2025-09-24 11:23:39,843 - INFO - Processing file: Screenshot 2025-08-31 at 4.48.36 PM.png
+2025-09-24 11:23:39,843 - INFO - Processing file: Screenshot 2025-08-31 at 4.48.36 PM.png
+2025-09-24 11:23:47,423 - INFO - Uploaded: secure-backups/Screenshot 2025-08-31 at 4.48.36 PM.png.enc
+2025-09-24 11:23:47,423 - INFO - Uploaded: secure-backups/Screenshot 2025-08-31 at 4.48.36 PM.png.enc
+2025-09-24 11:23:47,424 - INFO - Processing file: Screenshot 2025-09-24 at 10.02.17 AM.png
+2025-09-24 11:23:47,424 - INFO - Processing file: Screenshot 2025-09-24 at 10.02.17 AM.png
+2025-09-24 11:23:52,643 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.02.17 AM.png.enc
+2025-09-24 11:23:52,643 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.02.17 AM.png.enc
+2025-09-24 11:23:52,645 - INFO - Processing file: Screenshot 2025-09-24 at 10.01.52 AM.png
+2025-09-24 11:23:52,645 - INFO - Processing file: Screenshot 2025-09-24 at 10.01.52 AM.png
+2025-09-24 11:24:02,988 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.01.52 AM.png.enc
+2025-09-24 11:24:02,988 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.01.52 AM.png.enc
+2025-09-24 11:24:02,988 - INFO - Processing file: Screenshot 2025-09-24 at 10.03.22 AM.png
+2025-09-24 11:24:02,988 - INFO - Processing file: Screenshot 2025-09-24 at 10.03.22 AM.png
+2025-09-24 11:24:03,527 - INFO - Restoring file: Mayank_J_INTERNSHIP_PPT.pdf from S3 key: secure-backups/Mayank_J_INTERNSHIP_PPT.pdf.enc
+2025-09-24 11:24:03,527 - INFO - Restoring file: Mayank_J_INTERNSHIP_PPT.pdf from S3 key: secure-backups/Mayank_J_INTERNSHIP_PPT.pdf.enc
+2025-09-24 11:24:42,519 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.03.22 AM.png.enc
+2025-09-24 11:24:42,519 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.03.22 AM.png.enc
+2025-09-24 11:24:42,520 - INFO - Processing file: Screenshot 2025-09-24 at 10.02.57 AM.png
+2025-09-24 11:24:42,520 - INFO - Processing file: Screenshot 2025-09-24 at 10.02.57 AM.png
+2025-09-24 11:25:05,279 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.02.57 AM.png.enc
+2025-09-24 11:25:05,279 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.02.57 AM.png.enc
+2025-09-24 11:25:05,280 - INFO - Processing file: Screenshot 2025-09-24 at 10.00.40 AM.png
+2025-09-24 11:25:05,280 - INFO - Processing file: Screenshot 2025-09-24 at 10.00.40 AM.png
+2025-09-24 11:25:13,162 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.00.40 AM.png.enc
+2025-09-24 11:25:13,162 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.00.40 AM.png.enc
+2025-09-24 11:25:13,164 - INFO - Processing file: Screenshot 2025-09-24 at 10.03.28 AM.png
+2025-09-24 11:25:13,164 - INFO - Processing file: Screenshot 2025-09-24 at 10.03.28 AM.png
+2025-09-24 11:25:30,418 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.03.28 AM.png.enc
+2025-09-24 11:25:30,418 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.03.28 AM.png.enc
+2025-09-24 11:25:30,420 - INFO - Processing file: Screenshot 2025-09-24 at 10.02.22 AM.png
+2025-09-24 11:25:30,420 - INFO - Processing file: Screenshot 2025-09-24 at 10.02.22 AM.png
+2025-09-24 11:25:37,843 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.02.22 AM.png.enc
+2025-09-24 11:25:37,843 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.02.22 AM.png.enc
+2025-09-24 11:25:37,844 - INFO - Processing file: Screenshot 2025-09-24 at 10.02.08 AM.png
+2025-09-24 11:25:37,844 - INFO - Processing file: Screenshot 2025-09-24 at 10.02.08 AM.png
+2025-09-24 11:25:40,688 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.02.08 AM.png.enc
+2025-09-24 11:25:40,688 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.02.08 AM.png.enc
+2025-09-24 11:25:40,689 - INFO - Processing file: Screenshot 2025-09-24 at 10.00.17 AM.png
+2025-09-24 11:25:40,689 - INFO - Processing file: Screenshot 2025-09-24 at 10.00.17 AM.png
+2025-09-24 11:25:42,038 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.00.17 AM.png.enc
+2025-09-24 11:25:42,038 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.00.17 AM.png.enc
+2025-09-24 11:25:42,038 - INFO - Processing file: Screenshot 2025-09-24 at 10.00.05 AM.png
+2025-09-24 11:25:42,038 - INFO - Processing file: Screenshot 2025-09-24 at 10.00.05 AM.png
+2025-09-24 11:25:44,246 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.00.05 AM.png.enc
+2025-09-24 11:25:44,246 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.00.05 AM.png.enc
+2025-09-24 11:25:44,251 - INFO - Backup manifest saved to manifests/backup_manifest.json
+2025-09-24 11:25:44,251 - INFO - Backup manifest saved to manifests/backup_manifest.json
+2025-09-24 11:27:45,231 - ERROR - Decryption failed for Mayank_J_INTERNSHIP_PPT.pdf: 
+2025-09-24 11:27:45,231 - ERROR - Decryption failed for Mayank_J_INTERNSHIP_PPT.pdf: 
+2025-10-06 23:39:25,664 - INFO - Processing file: Screenshot 2025-09-24 at 10.00.59 AM.png
+2025-10-06 23:39:25,664 - INFO - Processing file: Screenshot 2025-09-24 at 10.00.59 AM.png
+2025-10-06 23:39:27,707 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.00.59 AM.png.enc
+2025-10-06 23:39:27,707 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.00.59 AM.png.enc
+2025-10-06 23:39:27,708 - INFO - Processing file: Screenshot 2025-09-24 at 10.02.29 AM.png
+2025-10-06 23:39:27,708 - INFO - Processing file: Screenshot 2025-09-24 at 10.02.29 AM.png
+2025-10-06 23:39:28,655 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.02.29 AM.png.enc
+2025-10-06 23:39:28,655 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.02.29 AM.png.enc
+2025-10-06 23:39:28,656 - INFO - Processing file: Screenshot 2025-09-24 at 10.01.59 AM.png
+2025-10-06 23:39:28,656 - INFO - Processing file: Screenshot 2025-09-24 at 10.01.59 AM.png
+2025-10-06 23:39:29,672 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.01.59 AM.png.enc
+2025-10-06 23:39:29,672 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.01.59 AM.png.enc
+2025-10-06 23:39:29,673 - INFO - Processing file: Screenshot 2025-09-24 at 10.00.53 AM.png
+2025-10-06 23:39:29,673 - INFO - Processing file: Screenshot 2025-09-24 at 10.00.53 AM.png
+2025-10-06 23:39:30,649 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.00.53 AM.png.enc
+2025-10-06 23:39:30,649 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.00.53 AM.png.enc
+2025-10-06 23:39:30,649 - INFO - Processing file: Screenshot 2025-09-24 at 10.02.17 AM.png
+2025-10-06 23:39:30,649 - INFO - Processing file: Screenshot 2025-09-24 at 10.02.17 AM.png
+2025-10-06 23:39:31,621 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.02.17 AM.png.enc
+2025-10-06 23:39:31,621 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.02.17 AM.png.enc
+2025-10-06 23:39:31,621 - INFO - Processing file: Screenshot 2025-09-24 at 10.01.52 AM.png
+2025-10-06 23:39:31,621 - INFO - Processing file: Screenshot 2025-09-24 at 10.01.52 AM.png
+2025-10-06 23:39:32,576 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.01.52 AM.png.enc
+2025-10-06 23:39:32,576 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.01.52 AM.png.enc
+2025-10-06 23:39:32,577 - INFO - Processing file: Screenshot 2025-09-24 at 10.02.22 AM.png
+2025-10-06 23:39:32,577 - INFO - Processing file: Screenshot 2025-09-24 at 10.02.22 AM.png
+2025-10-06 23:39:33,223 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.02.22 AM.png.enc
+2025-10-06 23:39:33,223 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.02.22 AM.png.enc
+2025-10-06 23:39:33,223 - INFO - Processing file: Screenshot 2025-09-24 at 10.02.08 AM.png
+2025-10-06 23:39:33,223 - INFO - Processing file: Screenshot 2025-09-24 at 10.02.08 AM.png
+2025-10-06 23:39:33,586 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.02.08 AM.png.enc
+2025-10-06 23:39:33,586 - INFO - Uploaded: secure-backups/Screenshot 2025-09-24 at 10.02.08 AM.png.enc
+2025-10-06 23:39:33,587 - INFO - Backup manifest saved to manifests/backup_manifest.json
+2025-10-06 23:39:33,587 - INFO - Backup manifest saved to manifests/backup_manifest.json
+2025-10-06 23:40:30,665 - INFO - Restoring file: Screenshot 2025-09-24 at 10.00.59 AM.png from S3 key: secure-backups/Screenshot 2025-09-24 at 10.00.59 AM.png.enc
+2025-10-06 23:40:30,665 - INFO - Restoring file: Screenshot 2025-09-24 at 10.00.59 AM.png from S3 key: secure-backups/Screenshot 2025-09-24 at 10.00.59 AM.png.enc
+2025-10-06 23:40:33,960 - INFO - Successfully restored: Screenshot 2025-09-24 at 10.00.59 AM.png
+2025-10-06 23:40:33,960 - INFO - Successfully restored: Screenshot 2025-09-24 at 10.00.59 AM.png
+2025-10-06 23:40:33,961 - INFO - Restoring file: Screenshot 2025-09-24 at 10.02.29 AM.png from S3 key: secure-backups/Screenshot 2025-09-24 at 10.02.29 AM.png.enc
+2025-10-06 23:40:33,961 - INFO - Restoring file: Screenshot 2025-09-24 at 10.02.29 AM.png from S3 key: secure-backups/Screenshot 2025-09-24 at 10.02.29 AM.png.enc
+2025-10-06 23:40:34,663 - INFO - Successfully restored: Screenshot 2025-09-24 at 10.02.29 AM.png
+2025-10-06 23:40:34,663 - INFO - Successfully restored: Screenshot 2025-09-24 at 10.02.29 AM.png
+2025-10-06 23:40:34,663 - INFO - Restoring file: Screenshot 2025-09-24 at 10.01.59 AM.png from S3 key: secure-backups/Screenshot 2025-09-24 at 10.01.59 AM.png.enc
+2025-10-06 23:40:34,663 - INFO - Restoring file: Screenshot 2025-09-24 at 10.01.59 AM.png from S3 key: secure-backups/Screenshot 2025-09-24 at 10.01.59 AM.png.enc
+2025-10-06 23:40:38,950 - INFO - Successfully restored: Screenshot 2025-09-24 at 10.01.59 AM.png
+2025-10-06 23:40:38,950 - INFO - Successfully restored: Screenshot 2025-09-24 at 10.01.59 AM.png
+2025-10-06 23:40:38,950 - INFO - Restoring file: Screenshot 2025-09-24 at 10.00.53 AM.png from S3 key: secure-backups/Screenshot 2025-09-24 at 10.00.53 AM.png.enc
+2025-10-06 23:40:38,950 - INFO - Restoring file: Screenshot 2025-09-24 at 10.00.53 AM.png from S3 key: secure-backups/Screenshot 2025-09-24 at 10.00.53 AM.png.enc
+2025-10-06 23:40:39,974 - INFO - Successfully restored: Screenshot 2025-09-24 at 10.00.53 AM.png
+2025-10-06 23:40:39,974 - INFO - Successfully restored: Screenshot 2025-09-24 at 10.00.53 AM.png
+2025-10-06 23:40:39,975 - INFO - Restoring file: Screenshot 2025-09-24 at 10.02.17 AM.png from S3 key: secure-backups/Screenshot 2025-09-24 at 10.02.17 AM.png.enc
+2025-10-06 23:40:39,975 - INFO - Restoring file: Screenshot 2025-09-24 at 10.02.17 AM.png from S3 key: secure-backups/Screenshot 2025-09-24 at 10.02.17 AM.png.enc
+2025-10-06 23:40:40,361 - INFO - Successfully restored: Screenshot 2025-09-24 at 10.02.17 AM.png
+2025-10-06 23:40:40,361 - INFO - Successfully restored: Screenshot 2025-09-24 at 10.02.17 AM.png
+2025-10-06 23:40:40,362 - INFO - Restoring file: Screenshot 2025-09-24 at 10.01.52 AM.png from S3 key: secure-backups/Screenshot 2025-09-24 at 10.01.52 AM.png.enc
+2025-10-06 23:40:40,362 - INFO - Restoring file: Screenshot 2025-09-24 at 10.01.52 AM.png from S3 key: secure-backups/Screenshot 2025-09-24 at 10.01.52 AM.png.enc
+2025-10-06 23:40:40,800 - INFO - Successfully restored: Screenshot 2025-09-24 at 10.01.52 AM.png
+2025-10-06 23:40:40,800 - INFO - Successfully restored: Screenshot 2025-09-24 at 10.01.52 AM.png
+2025-10-06 23:40:40,800 - INFO - Restoring file: Screenshot 2025-09-24 at 10.02.22 AM.png from S3 key: secure-backups/Screenshot 2025-09-24 at 10.02.22 AM.png.enc
+2025-10-06 23:40:40,800 - INFO - Restoring file: Screenshot 2025-09-24 at 10.02.22 AM.png from S3 key: secure-backups/Screenshot 2025-09-24 at 10.02.22 AM.png.enc
+2025-10-06 23:40:45,059 - INFO - Successfully restored: Screenshot 2025-09-24 at 10.02.22 AM.png
+2025-10-06 23:40:45,059 - INFO - Successfully restored: Screenshot 2025-09-24 at 10.02.22 AM.png
+2025-10-06 23:40:45,059 - INFO - Restoring file: Screenshot 2025-09-24 at 10.02.08 AM.png from S3 key: secure-backups/Screenshot 2025-09-24 at 10.02.08 AM.png.enc
+2025-10-06 23:40:45,059 - INFO - Restoring file: Screenshot 2025-09-24 at 10.02.08 AM.png from S3 key: secure-backups/Screenshot 2025-09-24 at 10.02.08 AM.png.enc
+2025-10-06 23:40:45,660 - INFO - Successfully restored: Screenshot 2025-09-24 at 10.02.08 AM.png
+2025-10-06 23:40:45,660 - INFO - Successfully restored: Screenshot 2025-09-24 at 10.02.08 AM.png
